@@ -28,5 +28,5 @@ rostopic info /solution
 ```
 ### ÖRNEK ÇIKTI GÖRÜNTÜSÜ
 <div align="center">
-<img src="media/github.png" width="1920" height="1080" />
+<img src="github.png" width="1920" height="1080" />
 </div>
