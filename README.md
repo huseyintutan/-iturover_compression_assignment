@@ -16,6 +16,8 @@ source decompress_ws/devel/setup.bash
 sudo chmod +x src/bz2pub/scripts/bz2_publisher.py
 sudo chmod +x src/pydecomp/scripts/decomp.py
 
+sudo apt-get install -y libbz2-dev
+
 ```
 # ÇALIŞTIRMA
 
